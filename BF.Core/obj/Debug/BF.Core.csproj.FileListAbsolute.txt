@@ -1,0 +1,12 @@
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\bin\Debug\BF.Core.dll.config
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\bin\Debug\BF.Core.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\bin\Debug\BF.Core.pdb
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\bin\Debug\EntityFramework.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\bin\Debug\EntityFramework.xml
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\obj\Debug\BF.Core.csprojAssemblyReference.cache
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\obj\Debug\BF.Core.csproj.CoreCompileInputs.cache
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\obj\Debug\BF.Core.csproj.CopyComplete
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\obj\Debug\BF.Core.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Core\obj\Debug\BF.Core.pdb

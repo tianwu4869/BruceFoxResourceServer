@@ -1,0 +1,12 @@
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\bin\Debug\BF.Abstractions.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\bin\Debug\BF.Abstractions.pdb
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\bin\Debug\BF.Core.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\bin\Debug\EntityFramework.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\bin\Debug\BF.Core.pdb
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\bin\Debug\BF.Core.dll.config
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\bin\Debug\EntityFramework.xml
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\obj\Debug\BF.Abstractions.csprojAssemblyReference.cache
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\obj\Debug\BF.Abstractions.csproj.CoreCompileInputs.cache
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\obj\Debug\BF.Abstractions.csproj.CopyComplete
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\obj\Debug\BF.Abstractions.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.Abstractions\obj\Debug\BF.Abstractions.pdb

@@ -1,0 +1,17 @@
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\BF.DAL.dll.config
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\BF.DAL.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\BF.DAL.pdb
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\BF.Abstractions.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\BF.Core.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\EntityFramework.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\BF.Abstractions.pdb
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\BF.Core.pdb
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\BF.Core.dll.config
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\EntityFramework.xml
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\obj\Debug\BF.DAL.csprojAssemblyReference.cache
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\obj\Debug\BF.DAL.csproj.CoreCompileInputs.cache
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\obj\Debug\BF.DAL.csproj.CopyComplete
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\obj\Debug\BF.DAL.dll
+F:\Courseware\Itlize\BruceFoxResourceServer\BF.DAL\obj\Debug\BF.DAL.pdb
